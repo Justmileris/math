@@ -8,15 +8,8 @@
 
 ![](imgs/3.png?raw=true)
 
-
-
-
-
-
-
-
-
 ![](imgs/4.png?raw=true)
 
 ![](imgs/5.jpg?raw=true)
+
 </pre>
