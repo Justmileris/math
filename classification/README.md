@@ -5,6 +5,15 @@
   <br />
   <br />
   <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
   <img src="https://github.com/Justmileris/math/blob/main/classification/imgs/2.png">
   <br \>
   <br \>
