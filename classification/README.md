@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Justmileris/math/blob/main/classification/imgs/1.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/classification/imgs/1.jpg">
 </p>
 
 <p align="center">
