@@ -1,12 +1,16 @@
 # Classification
 
 <p align="center">
-  &nbsp;
-  ![](imgs/1.jpg?raw=true) <br />
+  
+  <br />
+  
+  ![](imgs/1.jpg?raw=true)
 
-  ![](imgs/2.png?raw=true)
-  &nbsp
+  ![](imgs/2.png?raw=true)   <br />
+
   ![](imgs/3.png?raw=true)
+
+  <br />
 
   ![](imgs/4.png?raw=true)
 
