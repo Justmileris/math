@@ -16,6 +16,9 @@
 
 
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Justmileris/math/blob/main/classification/imgs/1.jpg">
+</p>
 
 <p align="center">
   <img width="460" height="300" src="http://www.fillmurray.com/460/300">
