@@ -1,6 +1,6 @@
 # Classification
 
-<pre align="center">
+<p align="center">
   
 ![](imgs/1.jpg?raw=true)
 
@@ -12,4 +12,9 @@
 
 ![](imgs/5.jpg?raw=true)
 
-</pre>
+</p>
+
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
