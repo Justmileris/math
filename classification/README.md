@@ -1,10 +1,12 @@
 # Classification
 
 <p align="center">
-  
-![](imgs/1.jpg?raw=true)
+  ![](imgs/1.jpg?raw=true)
+</p>
 
-![](imgs/2.png?raw=true)
+<p align="center">
+  ![](imgs/2.png?raw=true)
+</p>
 
 ![](imgs/3.png?raw=true)
 
@@ -12,7 +14,7 @@
 
 ![](imgs/5.jpg?raw=true)
 
-</p>
+
 
 
 <p align="center">
