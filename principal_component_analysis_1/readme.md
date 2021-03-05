@@ -1,0 +1,57 @@
+# Principal component analysis
+
+<p align="center">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/principal_component_analysis_1/imgs/1.jpg">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/principal_component_analysis_1/imgs/2.jpg">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/principal_component_analysis_1/imgs/3.jpg">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/principal_component_analysis_1/imgs/4.jpg">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/principal_component_analysis_1/imgs/5.jpg">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/principal_component_analysis_1/imgs/6.jpg">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/principal_component_analysis_1/imgs/7.jpg">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/principal_component_analysis_1/imgs/8.jpg">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+</p>
