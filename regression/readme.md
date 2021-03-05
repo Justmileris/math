@@ -6,37 +6,37 @@
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/2.png">
+  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/image2.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/3.png">
+  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/image3.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/4.png">
+  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/image4.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/5.png">
+  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/image5.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/6.png">
+  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/image6.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/7.png">
+  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/image7.png">
   <br />
   <br />
   <br />
