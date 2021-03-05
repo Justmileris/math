@@ -60,25 +60,25 @@
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/text_mining_twitter/imgs/z1.png">
+  <img src="https://github.com/Justmileris/math/blob/main/text_mining_twitter/imgs/z1.jpg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/text_mining_twitter/imgs/z2.png">
+  <img src="https://github.com/Justmileris/math/blob/main/text_mining_twitter/imgs/z2.jpg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/text_mining_twitter/imgs/z3.png">
+  <img src="https://github.com/Justmileris/math/blob/main/text_mining_twitter/imgs/z3.jpg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/text_mining_twitter/imgs/z4.png">
+  <img src="https://github.com/Justmileris/math/blob/main/text_mining_twitter/imgs/z4.jpg">
   <br />
   <br />
   <br />
