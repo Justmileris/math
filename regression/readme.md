@@ -1,0 +1,45 @@
+# Regression
+
+<p align="center">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/2.png">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/3.png">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/4.png">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/5.png">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/6.png">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/regression/imgs/7.png">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+</p>
