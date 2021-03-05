@@ -6,145 +6,145 @@
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image102.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image102.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image103.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image103.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image104.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image104.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image105.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image105.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image106.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image106.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image107.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image107.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image108.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image108.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image109.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image109.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image110.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image110.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image111.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image111.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image112.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image112.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image113.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image113.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image114.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image114.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image115.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image115.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image116.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image116.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image117.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image117.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image118.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image118.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image119.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image119.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image120.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image120.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image121.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image121.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image122.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image122.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image123.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image123.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image124.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image124.png">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image125.jpg">
+  <img src="https://github.com/Justmileris/math/blob/main/kernel_density_estimation/imgs/image125.png">
   <br />
   <br />
   <br />
