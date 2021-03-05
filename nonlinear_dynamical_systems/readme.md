@@ -6,241 +6,241 @@
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image10.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image10.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image11.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image11.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image12.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image12.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image13.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image13.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image14.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image14.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image16.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image16.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image17.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image17.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image19.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image19.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image20.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image20.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image23.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image23.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image24.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image24.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image26.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image26.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image27.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image27.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image29.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image29.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image3.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image3.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image31.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image31.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image33.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image33.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image34.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image34.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image35.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image35.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image37.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image37.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image38.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image38.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image39.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image39.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image41.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image41.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image43.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image43.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image44.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image44.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image45.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image45.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image47.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image47.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image48.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image48.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image5.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image5.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image51.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image51.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image52.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image52.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image53.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image53.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image54.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image54.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image55.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image55.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image56.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image56.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image57.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image57.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image58.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image58.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image59.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image59.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image60.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image60.jpeg">
   <br />
   <br />
   <br />
   <br />
   <br />
-  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image61.png">
+  <img src="https://github.com/Justmileris/math/blob/main/nonlinear_dynamical_systems/imgs/image61.jpeg">
   <br />
   <br />
   <br />
