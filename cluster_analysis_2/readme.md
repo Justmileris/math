@@ -1,0 +1,39 @@
+# Cluster analysis
+
+<p align="center">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/cluster_analysis_2/imgs/clustering_1_init_points.png">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/cluster_analysis_2/imgs/clustering_2_init_classes.png">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/cluster_analysis_2/imgs/clustering_3_kmeans.png">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/cluster_analysis_2/imgs/clustering_4_moons_kmeans.png">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github.com/Justmileris/math/blob/main/cluster_analysis_2/imgs/clustering_5_moons_kernelized_kmeans.png">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+</p>
